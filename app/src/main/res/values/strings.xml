@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DrinkApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_from_main_fragment">Hello from main fragment</string>
+    <string name="gotodinkdetails">GoToDinkDetails</string>
+    <string name="tv_default_description">Description</string>
+    <string name="tv_default_name">Name</string>
+    <string name="go_to_favourites">Go to Favourites</string>
+</resources>
